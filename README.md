@@ -6,4 +6,4 @@ let‘s go deeper
 
 ## Convolutional Neural Networks
 
-##
+## VAE DCGAN 
